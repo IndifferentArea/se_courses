@@ -1,5 +1,5 @@
-# Courses-in-SE
+# se_courses
 
-Everything about XJTU's SE courses.
+Almost everything *infernal* I've experienced in xjtu_se.
 
 > To be honest they are all bullshit.
