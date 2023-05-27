@@ -1,0 +1,17 @@
+*.aux
+*.log
+*.out
+*.gz
+*.toc
+out/
+.idea/
+*.zip
+.vscode/
+.vs/
+OOP/test/
+*.exe
+*.mat
+__pycache__/
+NLP/slides.zip.baiduyun.uploading.cfg
+ML/lab4_KNN/data/
+*.csv
